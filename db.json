@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "text": "Hello"
+    },
+    {
+      "text": "Ad lorem ispum",
+      "id": 2
+    }
+  ]
+}
